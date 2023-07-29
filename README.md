@@ -5,7 +5,5 @@ https://github.com/Lapoushko/TestTaskWebApiERC/assets/45125347/ca254332-ef29-47f
 ![2023-07-28_13-56-23](https://github.com/Lapoushko/TestTaskWebApiERC/assets/45125347/c2941a8a-6afa-4440-a303-ec7adcd3bcc6)
 ![2023-07-29_17-25-29](https://github.com/Lapoushko/TestTaskWebApiERC/assets/45125347/356c754b-0fda-4eeb-884f-07e077bb460f)
 
-!Uploading [FREE - HDconvert.com] output(compress-video-online.com).mp4…
-
-*** Видео хорошего качества у меня в гугл диске:
+*** Видео выполнения тз у меня в гугл диске:
 https://drive.google.com/file/d/1S2HpHB-5UqCRvqu7lZVc0tiCyo9F0Qun/view?usp=sharing
