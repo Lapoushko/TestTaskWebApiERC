@@ -1,0 +1,108 @@
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\appsettings.json
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\WebApiTask.exe
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\WebApiTask.deps.json
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\WebApiTask.runtimeconfig.json
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\WebApiTask.runtimeconfig.dev.json
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\WebApiTask.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\WebApiTask.pdb
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.csproj.AssemblyReference.cache
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.AssemblyInfoInputs.cache
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.AssemblyInfo.cs
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\scopedcss\bundle\WebApiTask.styles.css
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\staticwebassets\WebApiTask.StaticWebAssets.Manifest.cache
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.RazorTargetAssemblyInfo.cache
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.csproj.CopyComplete
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\refint\WebApiTask.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.pdb
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.genruntimeconfig.cache
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\obj\Debug\net5.0\ref\WebApiTask.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\vadim\source\repos\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\appsettings.Development.json
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\appsettings.json
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\WebApiTask.exe
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\WebApiTask.deps.json
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\WebApiTask.runtimeconfig.json
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\WebApiTask.runtimeconfig.dev.json
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\WebApiTask.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\WebApiTask.pdb
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.csproj.AssemblyReference.cache
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.AssemblyInfoInputs.cache
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.AssemblyInfo.cs
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.MvcApplicationPartsAssemblyInfo.cs
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.MvcApplicationPartsAssemblyInfo.cache
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\scopedcss\bundle\WebApiTask.styles.css
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\staticwebassets\WebApiTask.StaticWebAssets.Manifest.cache
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.RazorTargetAssemblyInfo.cache
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.csproj.CopyComplete
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\refint\WebApiTask.dll
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.pdb
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\WebApiTask.genruntimeconfig.cache
+D:\Program Files (x86)\TestTaskWebApiERC\WebApiTask\WebApiTask\obj\Debug\net5.0\ref\WebApiTask.dll
